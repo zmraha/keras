@@ -18,6 +18,7 @@ from .advanced_activations import *
 from .wrappers import *
 from .convolutional_recurrent import *
 from ..legacy.layers import *
+from .scale_layer import *
 
 
 def serialize(layer):
