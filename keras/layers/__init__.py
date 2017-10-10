@@ -19,6 +19,7 @@ from .wrappers import *
 from .convolutional_recurrent import *
 from ..legacy.layers import *
 from .scale_layer import *
+from .deep_retrieval import *
 
 
 def serialize(layer):

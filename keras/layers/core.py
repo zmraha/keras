@@ -20,6 +20,7 @@ from ..utils.generic_utils import func_load
 from ..utils.generic_utils import deserialize_keras_object
 from ..utils.generic_utils import has_arg
 from ..legacy import interfaces
+from .deep_retrieval import *
 
 
 class Masking(Layer):
